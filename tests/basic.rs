@@ -1,7 +1,7 @@
 #![allow(unused)]
 use gtest::{Program, System};
-use pebbles_game_io::*;
 use pebbles_game::*;
+use pebbles_game_io::*;
 
 const USERS: u64 = 345;
 
